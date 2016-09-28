@@ -1,0 +1,10 @@
+"*":
+  core:
+    themes: [
+      "one-dark-ui"
+      "cobalt2-syntax"
+    ]
+  "exception-reporting":
+    userId: "b8784f6d-2196-884e-eec1-826d1a85e708"
+  welcome:
+    showOnStartup: false
